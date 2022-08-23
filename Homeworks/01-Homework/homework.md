@@ -1,10 +1,10 @@
 ## Session #1 Homework
 
-> **Solution**: [homework-1.ipynb](../mlbookcamp-code/course-zoomcamp/01-intro/homework-1.ipynb).
+> **Solution**: [homework-1.ipynb](../../mlbookcamp-code/course-zoomcamp/01-intro/homework-1.ipynb).
 
 ### Set up the environment
 
-You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you can the instructions from [06-environment.md](../mlbookcamp-code/course-zoomcamp/01-intro/06-environment.md).
+You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you can the instructions from [06-environment.md](../../mlbookcamp-code/course-zoomcamp/01-intro/06-environment.md).
 
 ### Question 1
 
@@ -101,4 +101,4 @@ The deadline for submitting is 13 September 2021, 17:00 CET. After that, the for
 
 * [Machine Learning Zoomcamp course](../)
 * [Lesson 1: Introduction to Machine Learning](./)
-* Previous: [Summary](../mlbookcamp-code/course-zoomcamp/01-intro/10-summary.md)
+* Previous: [Summary](../../mlbookcamp-code/course-zoomcamp/01-intro/10-summary.md)
